@@ -145,6 +145,7 @@ function(retrieve_files path out_files)
             "ini"   # 配置文件
             "cpp"   # C++源文件
             "c"     # C源文件
+            "cc"
             "ixx"   # C++20模块文件
     )
 
