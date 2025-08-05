@@ -5,7 +5,7 @@ include(cmake/retrieve_files.cmake)
 include(cmake/project_cpp_standard.cmake)
 
 setup_project_options(
-    STANDARD 23
+    STANDARD 17
     INTERFACE_TARGET mirage_rpc_options
 )
 
